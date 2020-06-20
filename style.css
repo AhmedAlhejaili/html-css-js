@@ -1,0 +1,39 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    text-align: center;
+}
+
+#warp{
+    margin: 0 auto;
+    text-align: center;
+
+}
+#nheader{
+   background-color: blueviolet; 
+   padding: 25px;
+}
+h1{
+    color: cornsilk;
+}
+#npara{
+    background-color: #130f40;
+    height: 350px;
+}
+.text_para{
+    color: white;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+
+}
+.redcoloer{
+    color:red;
+}
+#footer{
+    color: yellow;
+    font-size: 30px;
+    background-color: violet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
